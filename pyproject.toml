@@ -1,12 +1,8 @@
 [project]
-name = "blank-app-template"
+name = "miammiam-app"
 version = "0.1.0"
-description = "A simple Streamlit app template."
-readme = "README.md"
-requires-python = ">=3.14"
+description = "Application de recettes MiamMiam"
 dependencies = [
-    "streamlit>=1.61.1",
+    "streamlit>=1.37.0",
+    "requests>=2.31.0",
 ]
-
-[tool.uv]
-package = false
