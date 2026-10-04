@@ -176,3 +176,4 @@ FICHES = {
             (1, "gousse", "ail", 0.15, 0.15),
             (60, "g", "emmental râpé à présure végétale", 1.80, 1.60),
             (1, "noix", "beurre", 0.15, 0.14)],
+        "etapes": ["Préchauffez le four à 160 °C et frottez un plat avec l'ail, puis beurrez-le.",
